@@ -309,8 +309,8 @@ This will open an interactive UI where you can:
 ---
 
 **Framework Version**: 1.0.0  
-**Playwright**: ^1.56.1  
-**TypeScript**: ^5.x  
-**Setup Date**: November 12, 2025  
+**Playwright Version**: ^1.56.1  
+**TypeScript Version**: ^5.x  
+**Author**: Mufrad6502
 
 🚀 **Happy Testing!**

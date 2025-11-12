@@ -171,7 +171,8 @@ None in this release
 
 ## Contributors
 
-- **Initial Development** - Email Automation Team
+- **Author** - Mufrad6502 (https://github.com/Mufrad6502)
+- **Email** - mufradmustahsin152@gmail.com
 
 ---
 

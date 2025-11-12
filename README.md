@@ -238,9 +238,11 @@ ISC
 
 ## 👤 Author
 
-Email Automation Team
+**Mufrad6502**  
+GitHub: https://github.com/Mufrad6502  
+Email: mufradmustahsin152@gmail.com
 
 ---
 
-**Last Updated**: November 2025
+**Last Updated**: November 2025  
 **Playwright Version**: ^1.56.1

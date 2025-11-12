@@ -8,7 +8,8 @@
 **License**: ISC  
 **Node.js Version**: 16+  
 **Framework**: Playwright 1.56.1+  
-**Language**: TypeScript 5.x
+**Language**: TypeScript 5.x  
+**Author**: Mufrad6502 (https://github.com/Mufrad6502)
 
 ---
 

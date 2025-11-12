@@ -1,6 +1,7 @@
 {
-  "name": "emailautomation",
+  "name": "email-verification-automation",
   "version": "1.0.0",
+  "description": "Comprehensive Playwright test automation framework for email verification workflows",
   "main": "index.js",
   "scripts": {
     "test": "playwright test",
@@ -9,11 +10,21 @@
     "test:headed": "playwright test --headed",
     "test:report": "playwright show-report"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "playwright",
+    "email-verification",
+    "test-automation",
+    "typescript",
+    "testing",
+    "qa",
+    "e2e-testing"
+  ],
+  "author": "Mufrad6502 <mufradmustahsin152@gmail.com>",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
+    "@playwright/experimental-ct-react": "^1.56.1",
+    "@playwright/experimental-ct-svelte": "^1.56.1",
+    "@playwright/experimental-ct-vue": "^1.56.1",
     "@playwright/test": "^1.56.1",
     "@types/node": "^24.10.1",
     "typescript": "^5.9.3"
